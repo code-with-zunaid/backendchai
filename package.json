@@ -1,0 +1,20 @@
+{
+  "name": "1chaiordeploy",
+  "version": "1.0.0",
+  "description": "this is my first backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "code"
+  ],
+  "author": "zunaid alam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  }
+}
